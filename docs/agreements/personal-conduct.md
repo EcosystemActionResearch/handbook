@@ -13,24 +13,6 @@ As we are a project of the Raft Foundation we also inherit the [Raft’s values]
 
 This is a living document. It will change as our community grows and as we learn.
 
-## Unacceptable behaviors include, but are not limited to
-
-The following behaviors are not acceptable in EAR spaces, regardless of intent:
-
-* Discrimination or demeaning conduct based on gender identity or expression, sexual orientation, disability, neurodivergence, age, class, caste, religion or lack of religion, immigration or citizenship status, national origin, or language  
-* Racist or otherwise racially demeaning language or conduct  
-* Making threats or encouraging others to violence or harm, using words or imagery  
-* Causing someone to fear for their safety such as through stalking, following, or intimidation  
-* Nonconsensual or unwelcome physical contact or sexual attention  
-* Homophobia, transphobia, or biphobia, including deadnaming, misgendering, or questioning the validity of someone’s identity  
-* Publication of private communications without consent  
-* Ableism, including dismissing access needs as inconvenient or excessive  
-* Dismissing lived experience as insufficient evidence or as less valid than formal credentials  
-* Taking credit for, misrepresenting, or using someone else’s work without attribution or consent  
-* Retaliation for raising a concern or making a report under this code
-
-This list is not exhaustive. The standard is whether a behavior creates harm, exclusion, or fear. 
-
 ## Expected behaviors include, but are definitely not limited to
 
 EAR asks more than the absence of harm. We are working toward actively repairing prior harm, not just avoiding producing it.
@@ -48,6 +30,24 @@ EAR asks more than the absence of harm. We are working toward actively repairing
 **Pace yourself and protect others’ ability to do the same.**  This is volunteer work. Joy, rest, and rigorous care are not aspirational. They are how we sustain this over time. Do not treat overextension as dedication.
 
 **Keep internal information internal.** Internal transparency is essential to how we work. Public transparency is powerful and must be handled with care. Privacy protects the people most at risk including research participants who have shared things in confidence and contributors whose personal situations are not public. When in doubt, ask before sharing.
+
+## Unacceptable behaviors include, but are not limited to
+
+The following behaviors are not acceptable in EAR spaces, regardless of intent:
+
+* Discrimination or demeaning conduct based on gender identity or expression, sexual orientation, disability, neurodivergence, age, class, caste, religion or lack of religion, immigration or citizenship status, national origin, or language  
+* Racist or otherwise racially demeaning language or conduct  
+* Making threats or encouraging others to violence or harm, using words or imagery  
+* Causing someone to fear for their safety such as through stalking, following, or intimidation  
+* Nonconsensual or unwelcome physical contact or sexual attention  
+* Homophobia, transphobia, or biphobia, including deadnaming, misgendering, or questioning the validity of someone’s identity  
+* Publication of private communications without consent  
+* Ableism, including dismissing access needs as inconvenient or excessive  
+* Dismissing lived experience as insufficient evidence or as less valid than formal credentials  
+* Taking credit for, misrepresenting, or using someone else’s work without attribution or consent  
+* Retaliation for raising a concern or making a report under this code
+
+This list is not exhaustive. The standard is whether a behavior creates harm, exclusion, or fear. 
 
 ## Research participants
 
