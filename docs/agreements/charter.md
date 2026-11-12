@@ -36,7 +36,7 @@ We envision an information ecosystem where people and communities interact onlin
 
 <!-- What we do. **Five-year** mission. We will revisit and update the mission each year. -->
 
-In service of this vision, we facilitate action research and strategic innovation with individuals and organizations building technology that gives people and communities agency over their online social identity, connections, activity, and content feeds.
+In service of this vision, we facilitate action research and strategic innovation with individuals and organizations working to give people and communities agency over their online social identity, connections, activity, and content feeds.
 
 ## Who we are
 
