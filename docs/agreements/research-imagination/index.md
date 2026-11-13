@@ -30,7 +30,7 @@ How about...
 
 The EAR community is a gathering place for members and those we partner with to help make public interest internet technology legible, usable, and practical for everyday people<sup>[1](#ear-objectives-2026)</sup>. We engage in this work through a combination of *action research* and *imagination* tracks. Research and imagination programming provide pathways to investigate shared conditions, reflect on the past, and explore desirable futures together.
 
-While all of this is in service of innovation, we intentionally create a space for imagination in service of innovation, rather than attempting to innovate on our own. This is in part because in order to realize desirable futures, we must first imagine them. There are many people capable of and involved in direct action. Indirect action is necessary to help create the conditions necessary to inform direct action with plural, inclusive, and effective contexts.
+Rather than attempting to innovate through direct action, EAR creates a space for members and constituents to think long-term with an emphasis on collective imagination. This is in part because in order to realize desirable futures, we must first imagine them². Secondarily there is a need in complex adaptive technology ecosystems for third-party independent facilitators to help create the conditions necessary to inform long-term strategic development with plural, inclusive, and emergent contexts³.
 
 ### Action Research
 
