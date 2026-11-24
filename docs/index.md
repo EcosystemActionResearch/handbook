@@ -1,6 +1,6 @@
 # EAR Member Handbook
 
-Ecosystem Action Research (EAR) provides participation pathways for individuals and organizations to explore shared conditions, imagine desirable futures, and identify themes for strategic development in order to help bring about a public interest internet. Our [2026 objectives](agreements/charter.md#2026-objectives) in the EAR charter center innovation related to the AT Protocol technology ecosystem.
+[Ecosystem Action Research (EAR)](https://ecosystemaction.com) provides participation pathways for individuals and organizations to explore shared conditions, imagine desirable futures, and identify themes for strategic development in order to help bring about a public interest internet. Our [2026 objectives](agreements/charter.md#2026-objectives) in the EAR charter center innovation related to the AT Protocol technology ecosystem.
 
 The EAR project is made possible by collective [members](agreements/membership.md) with the leadership and accountability of our [project committee](agreements/project-committee.md), strategic foresight and collective decision-making facilitated by the [steering group](agreements/steering.md), and [member services](agreements/internal-services/index.md) groups.  EAR is a project of the [Raft Foundation](https://raft.foundation).
 
